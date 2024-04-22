@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/2101881/NiagaraPortfolio/NiagaraPortfolio/Content/Niagara/NiagaraBasic/08-Flamethrower/NS_Flamethrower.uasset",
+				"D:/2101881/NiagaraPortfolio/NiagaraPortfolio/Content/Niagara/NiagaraBasic/08-Flamethrower/MI_FlameHeatDistortion_Trans.uasset",
+				"D:/2101881/NiagaraPortfolio/NiagaraPortfolio/Content/Materials/M_SingleTexture_Master_Additive.uasset",
+				"D:/2101881/NiagaraPortfolio/NiagaraPortfolio/Content/__ExternalActors__/Maps/MainScene/3/QE/AFAA3IRYFLAHXPQG5GSSKT.uasset",
+				"D:/2101881/NiagaraPortfolio/NiagaraPortfolio/Content/__ExternalActors__/Maps/MainScene/8/M2/BDE96JZKDHEXFPZR2HKR7C.uasset",
+				"D:/2101881/NiagaraPortfolio/NiagaraPortfolio/Content/__ExternalActors__/Maps/MainScene/4/NL/YW5OTT06AA41Y7ZFDOM7L2.uasset",
+				"D:/2101881/NiagaraPortfolio/NiagaraPortfolio/Content/Materials/M_SubUVMaterial_Additive.uasset",
 				"C:/Users/Max/Documents/GitHub/NiagaraPortfolio/NiagaraPortfolio/Content/Maps/MainScene_HLOD0_Instancing.uasset",
 				"C:/Users/Max/Documents/GitHub/NiagaraPortfolio/NiagaraPortfolio/Content/__ExternalActors__/Maps/MainScene/D/B5/VJT5DA4C6EPD7WW4QFHBJ8.uasset",
 				"C:/Users/Max/Documents/GitHub/NiagaraPortfolio/NiagaraPortfolio/Content/__ExternalObjects__/Maps/MainScene/4/SZ/MUL4FLCDZ1BQT1AV2GPZDY.uasset",
