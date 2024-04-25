@@ -1,0 +1,6 @@
+2024/04/26-00:07:05.454 14c0 Creating DB C:/Users/Max/Documents/GitHub/NiagaraPortfolio/NiagaraPortfolio/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/04/26-00:07:05.466 14c0 Reusing MANIFEST C:/Users/Max/Documents/GitHub/NiagaraPortfolio/NiagaraPortfolio/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/26-00:30:36.008 e98 Level-0 table #5: started
+2024/04/26-00:30:36.020 e98 Level-0 table #5: 1167 bytes OK
+2024/04/26-00:30:36.021 e98 Delete type=0 #3
+2024/04/26-00:30:36.022 e98 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
