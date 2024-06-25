@@ -4040,3 +4040,6 @@ Purging the undo buffer...
 [2024.06.18-21.27.20:093][775]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2024.06.18-21.27.20:093][775]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2024.06.18-21.27.20:094][775]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.06.18-21.27.32:170][775]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.06.18-21.27.32:406][775]LogExit: Exiting.
+[2024.06.18-21.27.32:502][775]Log file closed, 06/18/24 22:27:32
