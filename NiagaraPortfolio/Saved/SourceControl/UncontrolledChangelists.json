@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Max/NiagaraPortfolio/NiagaraPortfolio/Content/Niagara/Skills/12-Portal/NS_Portal.uasset",
+				"D:/Max/NiagaraPortfolio/NiagaraPortfolio/Content/Niagara/GGJ2025/M_Bullet.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset",
+				"D:/Max/NiagaraPortfolio/NiagaraPortfolio/Content/__ExternalActors__/Maps/LearningScene/5/TH/GK8UHUWB3GWV7ZWT482109.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset",
 				"C:/Users/Max/Documents/GitHub/NiagaraPortfolio/NiagaraPortfolio/Content/Maps/MainScene_HLOD0_Instancing.uasset",
